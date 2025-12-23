@@ -1,0 +1,50 @@
+:root {
+    --bg: #0f172a;
+    --card: #1e293b;
+    --text: #e5e7eb;
+    --accent: #38bdf8;
+}
+
+.light {
+    --bg: #f8fafc;
+    --card: #e5e7eb;
+    --text: #020617;
+    --accent: #2563eb;
+}
+
+body {
+    margin: 0;
+    font-family: system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+}
+
+header {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background: var(--card);
+}
+
+section {
+    max-width: 600px;
+    margin: 20px auto;
+    background: var(--card);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+button {
+    background: var(--accent);
+    border: none;
+    padding: 8px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+li {
+    background: rgba(0,0,0,0.3);
+    margin: 8px 0;
+    padding: 10px;
+    border-radius: 6px;
+}
