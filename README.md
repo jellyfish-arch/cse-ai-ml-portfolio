@@ -1,23 +1,28 @@
-CSE AI & ML Portfolio
+CSE Portfolio | AI & ML Track
 
-This repository documents my learning, experiments, and projects in
-Computer Science with a specialization in Artificial Intelligence and
-Machine Learning.
+This repository represents my programming foundation, experiments,
+and projects as a Computer Science Engineering student with a focus
+on Artificial Intelligence and Machine Learning.
 
-Focus Areas:
-- Python Programming
+The repository is intentionally structured to reflect strong
+fundamentals across multiple programming languages, along with
+clean code practices and problem-solving skills.
+
+Languages & Focus:
+- C        : Core programming, memory concepts, logic building
+- Python   : Scripting, automation, problem solving
+- Rust     : Modern systems programming, safety and performance
+
+Current Focus:
+- Strengthening programming fundamentals
+- Writing clean, readable, and structured code
+- Building small but meaningful projects
+- Preparing a strong foundation before advanced topics (DSA, ML)
+
+Future Roadmap:
 - Data Structures & Algorithms
-- Machine Learning Fundamentals
-- Model Development & Evaluation
-- Problem Solving & Optimization
+- Machine Learning & AI projects
+- Internships and industry-level problem solving
 
-Purpose:
-This repository serves as a long-term technical portfolio showcasing
-my skills, projects, and hands-on work for internships, placements,
-and software / AI-ML roles.
-
-Tech Stack:
-- Python
-- NumPy, Pandas
-- Scikit-learn
-- Git & GitHub
+This repository is maintained as a long-term technical portfolio
+for academic evaluation, internships, and high-impact software roles.
