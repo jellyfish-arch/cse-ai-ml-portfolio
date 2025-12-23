@@ -26,3 +26,18 @@ Future Roadmap:
 
 This repository is maintained as a long-term technical portfolio
 for academic evaluation, internships, and high-impact software roles.
+
+
+Current Projects:
+
+Python:
+- Student Record Manager (CLI)
+  - Manages student records using dictionaries and functions
+
+C:
+- Array Statistics Program
+  - Computes sum, average, min, and max of integer arrays
+
+Rust:
+- Simple CLI Greeting Program
+  - Demonstrates basic input handling and functions
